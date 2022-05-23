@@ -1,0 +1,4 @@
+pillow
+requests
+vk-api
+xlrd
